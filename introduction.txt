@@ -1,3 +1,5 @@
-Hello Palak
+Hello Aastha!!!
 
-This is my first commit
+This is my first commit.
+
+This is a text file.
